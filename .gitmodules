@@ -1,6 +1,3 @@
 [submodule "my-service"]
 	path = my-service
 	url = https://github.com/RafaelRodriguezSanz/my-service
-[submodule "my-test-service"]
-	path = my-test-service
-	url = https://github.com/RafaelRodriguezSanz/my-test-service
